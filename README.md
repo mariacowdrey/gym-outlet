@@ -3,7 +3,7 @@
 ## Description
 An E-commerce application that offers fitness clothing for men and women. The website allows users to login, add items to cart, and checkout using Stripe.
 
-Link to deployed application:
+Link to deployed application: https://gym-outlet.herokuapp.com/
 
 ![Spartan Clothing](Spartan.JPG)
 
